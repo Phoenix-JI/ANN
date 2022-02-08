@@ -8,3 +8,5 @@ Some key element in design:
   - Save/load the weights
   - Save/load the pre-train my model
   - Enhance the ANN by OpenMP
+ 
+ #### This is the project I developed in undergraduate year 3 of my university period, quite challenging but extremely interesting in that time before COVID-19 pandemic.

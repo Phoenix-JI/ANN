@@ -1,5 +1,5 @@
 # ANN
-Design and Implementation of an Artificial Neural Network as the general multi-class classifier for MNIST dataset developed by C++ and the user is able to set the number of layers and the number of neurons in each layer</br>
+Design and Implementation of an Artificial Neural Network as the general multi-class classifier for MNIST dataset developed by C++ from scratch and the user is able to set the number of layers and the number of neurons in each layer</br>
 Some key element in design:
   - Feedforward function: to carry out the layer-wise feedforward calculations
   - Train function: use mini-batch SGD and backprogagation algorithm for the training
